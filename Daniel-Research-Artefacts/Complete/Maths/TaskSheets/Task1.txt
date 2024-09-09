@@ -1,0 +1,46 @@
+Lesson Reviews: Instructions
+At the completion of the module, you are required to fill a lesson review to
+tell us what you learnt and how you learnt it.
+Your tutor will then review your submission and will give you feedback. If
+your submission is incomplete they will ask you to include missing parts. They
+can also ask follow-up questions, either to clarify something, or to double check
+your understanding of certain concepts.
+The lesson review must contain three parts:
+1 Module Summary
+Please provide an overview of what you learnt in the unit. Throughout the
+activities and resources on the unit site, you will find prompts that help you fill
+this part. More specifically, you need to answer the following questions:
+1.1 Summarising the content:
+To make it easier to summarise the content of the module, you can break down
+these questions by learning objective, or by activity, as is suggested on the unit
+site.
+• Summarise the main points in this module. Make sure that you include
+references to the learning objectives.
+• How is this useful?
+1.2 Reflecting on the content:
+• What is the most important thing you learnt in this module?
+• How does this relate to what you already know?
+• Why do you think your course team wants you to learn the content of this
+module?
+2 Evidence of Learning.
+Provide evidence of your work on this module. This can contain notes that you
+took, exercises that you solved, and any other work that you produced. You can
+scan or take pictures of your work into a pdf document. If you’re a confident
+programmer, implementing some algorithms or formulas can be a great way
+to understand them. If you used external resources in your learning, please
+include links to them.
+1
+It is a good idea to include short comments together with your evidence.
+Here are some suggestions:
+• Provide references to problems/exercises that highlight a concept that
+you think is important;
+• If you found some specific points difficult, how you overcame these difficulties, and what you learnt from them.
+• Include problems where you made mistakes and comment what you learnt
+from those mistakes, or how you overcame them.
+3 Evidence of self-assessment, with a sufficicent score
+(at least 90%).
+Please include evidence that you reached the minimum required score at the
+self-assessment. On the results page of the automatic self-assessment, please
+click on the option “print this results summary” and save the results into a pdf
+file. You can then upload this file as your evidence.
+2

@@ -1,0 +1,27 @@
+---
+title: Plan for Mean
+sidebar:
+  label: " - Plan for Mean"
+---
+
+The mean of a list of values is the sum of those values divided by the number of values. In the case of the statistics calculator, we already a plan for the `sum` function, so the `mean` function does not need to recalculate the sum, it can just call the `sum` and use the result returned.
+
+To get the number of elements in the array we will need to keep track of this ourselves. As you may recall, C does not retain any details about the length of the arrays you declare. When you pass these to any function or procedure, you just get a pointer to the first element. We could keep track of this by passing in a `size` parameter to indicate the number of elements in the array, or we can create a struct that contains the array and the number of elements it currently contains valid values for. In this way, the `mean` can easily be calculated from the sum divided by the number of elements in the array.
+
+<br/>
+<a id="ListingMean"></a>
+
+```
+Function: Mean
+-------------------------------
+Returns:
+    - Double: The average (mean) of the numbers from the data array
+Parameters:
+    1. data (array of Double) - the list of values
+    2. size (Integer) - the number of elements in data
+Steps
+    1. Return the result, Sum(data, size) / size
+```
+<div class="caption">Pseudocode for Mean</div>
+
+This gives us a plan for the mean, and a decision we need to make around storing the numbers in a basic array or in a struct that contains the array and its current number of stored elements.
